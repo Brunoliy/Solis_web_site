@@ -1,2 +1,2 @@
 # Solis_web_site
- Site de painel solar
+ Projeto da faculdade de um site de painéis solares.
